@@ -1,6 +1,6 @@
 import random
 
-#Finding minimum of random numbers
+#Finding the minimum of random numbers
 
 randNum = []
 for x in range(10):
